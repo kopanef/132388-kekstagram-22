@@ -21,3 +21,5 @@ let CheckLength = function (string, maxLenght) {
 };
 
 CheckLength('Test-of-text', 1000);
+
+// Тестовый коммент
